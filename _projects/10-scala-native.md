@@ -5,7 +5,7 @@ web:
 github: https://github.com/scala-native/scala-native
 origin: https://github.com/scalacenter/advisoryboard/blob/master/proposals/001-native-scala-for-spark.md
 contributors: [guillaume]
-status: Need Maintainers
+status: Contributors are welcome
 type: project
 active: true
 home: true
