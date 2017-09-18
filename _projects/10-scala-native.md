@@ -3,7 +3,7 @@ label: scalaNative
 name: Scala-Native
 web:
 github: https://github.com/scala-native/scala-native
-origin: SCP-001 - Native Execution of Scala/Spark via LLVM
+origin: https://github.com/scalacenter/advisoryboard/blob/master/proposals/001-native-scala-for-spark.md
 contributors: [guillaume]
 status: Contributors are welcome
 type: project
