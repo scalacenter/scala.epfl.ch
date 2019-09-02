@@ -1,3 +1,7 @@
+# This repository has been archived
+
+**The reference repository is at https://github.com/scala/scala.epfl.ch**
+
 # scala.epfl.ch
 
 website for the Scala Center
